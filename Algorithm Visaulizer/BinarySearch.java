@@ -62,7 +62,7 @@ public class BinarySearch implements Runnable {
             panel.highlight(-1, -1);
             panel.repaint();
         } catch (InterruptedException e) {
-            e.printStackTrace();
+            throw new RuntimeException(e);
         }
     }
 }

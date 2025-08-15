@@ -24,12 +24,12 @@ public class InsertOperation implements Runnable {
             Thread.sleep(500);
 
             JOptionPane.showMessageDialog(null,
-                "Inserted value: " + value + "\nAt index: " + array.length);
+                    "Inserted value: " + value + "\nAt index: " + array.length);
 
             panel.highlight(-1, -1);
             panel.repaint();
         } catch (InterruptedException e) {
-            e.printStackTrace();
+            throw new RuntimeException(e);
         }
     }
 }

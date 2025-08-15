@@ -55,7 +55,7 @@ public class DeleteOperation implements Runnable {
                     "Deleted value: " + target + "\nAt index: " + index);
 
         } catch (InterruptedException e) {
-            e.printStackTrace();
+            throw new RuntimeException(e);
         }
     }
 }

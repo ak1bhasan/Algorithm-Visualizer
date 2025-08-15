@@ -27,7 +27,7 @@ public class BubbleSort implements Runnable {
                 }
             }
         } catch (InterruptedException e) {
-            e.printStackTrace();
+            throw new RuntimeException(e);
         }
         panel.highlight(-1, -1);
         panel.repaint();

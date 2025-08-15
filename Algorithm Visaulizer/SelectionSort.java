@@ -25,5 +25,6 @@ public class SelectionSort implements Runnable {
             array[minIndex] = temp;
         }
         panel.highlight(-1, -1);
+        panel.repaint();
     }
 }
