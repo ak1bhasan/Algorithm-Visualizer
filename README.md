@@ -66,13 +66,21 @@ Click the **Watch Demo** button above to see the Algorithm Visualizer in action,
 
 - **Graph Algorithms** 🌐  
   - Kruskal’s Algorithm  
-  - Prim’s Algorithm  
-  - A* Algorithm  
-
+  - Prim’s Algorithm
+    
 - **Tree Traversals** 🌳  
   - Inorder  
   - Preorder  
-  - Postorder
+  - Postorder  
+
+- **Array Operations** 📦  
+  - Enhanced Insertion (add value at a specific position)  
+  - Enhanced Deletion (remove value from a specific position)  
+
+- **User Interface Improvements** 🎨  
+  - More intuitive and polished design  
+  - Better animations and smoother transitions  
+  - Enhanced controls for user input and interaction  
  
 ## ⚙️ Requirements
 - 💻 **Java JDK 8 or later**  
