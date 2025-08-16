@@ -12,7 +12,7 @@
 
 ## 👥 Project Team
 - [Md. Masudul Hasan Akib](https://www.linkedin.com/in/ak1bhasan/)
-- Jibran Masum Didar(https://www.linkedin.com/in/jibran-masum-didar-0a1bb229a/)
+- .[Jibran Masum Didar](https://www.linkedin.com/in/jibran-masum-didar-0a1bb229a/)
 
 ## 📝 Project Overview
 This project is a **Java-based Algorithm Visualizer** developed using **Swing** and **Graphics**.  
