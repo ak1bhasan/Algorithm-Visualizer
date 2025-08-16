@@ -1,5 +1,9 @@
 # Algorithm Visualizer using Java (Swing & Graphics)
 
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![Platform](https://img.shields.io/badge/Platform-NetBeans-blue)
+![GUI](https://img.shields.io/badge/GUI-Swing%20%26%20AWT-green)
+
 ## Course Information
 - **Course Title:** Object Oriented Programming Lab  
 - **Course Code:** CSE 222  
@@ -42,14 +46,21 @@ Algorithm visualization enhances the learning of computer science by making abst
   - Binary Search  
 
 - **Additional Operations**  
-  - Insertion
-  - Deletion
+  - Insertion  
+  - Deletion  
 
 - **Interactive Design**  
   - Step-by-step visualization of each algorithm  
   - User can input custom data for experiments  
 
+## Future Extensions
+- Add Quick Sort and Heap Sort  
+- Implement Graph Algorithms (Kruskal’s, Prim’s, A*)  
+- Tree Traversals (Inorder, Preorder, Postorder)  
+- Backtracking Problems (N-Queens, Maze Solver)  
+- Export features (Screenshots / Logs)  
+
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ak1bhhasan/Algorithm-Visualizer.git
+   git clone https://github.com/ak1bhasan/Algorithm-Visualizer.git
