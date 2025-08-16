@@ -1,8 +1,8 @@
 # Algorithm Visualizer using Java (Swing & Graphics)
 
-![Java](https://img.shields.io/badge/Language-Java-orange)
-![Platform](https://img.shields.io/badge/Platform-Visual%20Studio-blue)
-![GUI](https://img.shields.io/badge/GUI-Swing%20%26%20AWT-green)
+[![Language](https://img.shields.io/badge/Language-Java-orange)](https://www.java.com/)
+[![Platform](https://img.shields.io/badge/Platform-Visual%20Studio-blue)](https://visualstudio.microsoft.com/)
+[![GUI](https://img.shields.io/badge/GUI-Swing%20%26%20AWT-green)](https://docs.oracle.com/javase/tutorial/uiswing/)
 
 ## Course Information
 - **Course Title:** Object Oriented Programming Lab  
@@ -37,7 +37,9 @@ Algorithm visualization enhances the learning of computer science by making abst
 - Builds stronger intuition in algorithm design and problem solving  
 
 ## Demonstration Video
-📺 [Watch Full Visualization Demo](https://drive.google.com/file/d/1swls2OBBEtwGC9laN9r7LGBQG6mRkYwI/view?usp=drive_link)  
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1swls2OBBEtwGC9laN9r7LGBQG6mRkYwI/view?usp=drive_link)  
+
+Click the **Watch Demo** button above to see the Algorithm Visualizer in action, including sorting, searching, insertion, and deletion visualizations.
 
 ## Key Features
 - **Sorting Algorithms**  
