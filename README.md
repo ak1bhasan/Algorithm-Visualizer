@@ -10,6 +10,9 @@
 - **Course Teacher:** Nasif Istiak Remon  
 - **Position:** Lecturer, Department of CSE  
 
+## Project Team
+- [Md. Masudul Hasan Akib](https://github.com/ak1bhasan)  
+
 ## Project Overview
 This project is a **Java-based Algorithm Visualizer** developed using **Swing** and **Graphics**.  
 It provides interactive visualizations for both **sorting** and **searching** algorithms, helping learners understand algorithmic steps through animations.  
@@ -59,6 +62,11 @@ Algorithm visualization enhances the learning of computer science by making abst
 - Tree Traversals (Inorder, Preorder, Postorder)  
 - Backtracking Problems (N-Queens, Maze Solver)  
 - Export features (Screenshots / Logs)  
+
+## Requirements
+- Java JDK 8 or later  
+- Visual Studio with Java Extension Pack  
+- Git (for cloning the repository)  
 
 ## How to Run
 1. Clone the repository:  
