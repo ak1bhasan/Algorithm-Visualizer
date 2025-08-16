@@ -37,7 +37,7 @@ Algorithm visualization enhances the learning of computer science by making abst
 - Builds stronger intuition in algorithm design and problem solving  
 
 ## 🎬 Demonstration Video
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1lcxwHwrDqGfQ6jF8KwF-D-yUJNTD3-du/view?usp=sharing)  
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1wx88-FAU9RAH91BFg5N3cORy2YczH5Ea/view?usp=sharing)  
 
 Click the **Watch Demo** button above to see the Algorithm Visualizer in action, including sorting, searching, insertion, and deletion visualizations.
 
