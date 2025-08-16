@@ -1,7 +1,7 @@
 # Algorithm Visualizer using Java (Swing & Graphics)
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
-![Platform](https://img.shields.io/badge/Platform-NetBeans-blue)
+![Platform](https://img.shields.io/badge/Platform-Visual%20Studio-blue)
 ![GUI](https://img.shields.io/badge/GUI-Swing%20%26%20AWT-green)
 
 ## Course Information
