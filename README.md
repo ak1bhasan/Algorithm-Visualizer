@@ -74,10 +74,6 @@ Click the **Watch Demo** button above to see the Algorithm Visualizer in action,
   - Preorder  
   - Postorder  
 
-- **Backtracking Problems** 🧩  
-  - N-Queens  
-  - Maze Solver  
-
 - **Export Features** 💾  
   - Screenshots  
   - Logs  
