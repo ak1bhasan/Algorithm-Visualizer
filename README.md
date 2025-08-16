@@ -1,24 +1,24 @@
-# Algorithm Visualizer using Java (Swing & Graphics)
+# 🖥️ Algorithm Visualizer using Java (Swing & Graphics)
 
 [![Language](https://img.shields.io/badge/Language-Java-orange)](https://www.java.com/)
 [![Platform](https://img.shields.io/badge/Platform-Visual%20Studio-blue)](https://visualstudio.microsoft.com/)
 [![GUI](https://img.shields.io/badge/GUI-Swing%20%26%20AWT-green)](https://docs.oracle.com/javase/tutorial/uiswing/)
 
-## Course Information
+## 📚 Course Information
 - **Course Title:** Object Oriented Programming Lab  
 - **Course Code:** CSE 222  
 - **Course Teacher:** Nasif Istiak Remon  
 - **Position:** Lecturer, Department of CSE  
 
-## Project Team
-- [Md. Masudul Hasan Akib](https://www.linkedin.com/in/ak1bhasan/)
+## 👥 Project Team
+- [Md. Masudul Hasan Akib](https://www.linkedin.com/in/ak1bhasan/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Akib-blue?logo=linkedin) ![GitHub](https://img.shields.io/badge/GitHub-ak1bhasan-black?logo=github)
 - Jibran Masum Didar
 
-## Project Overview
+## 📝 Project Overview
 This project is a **Java-based Algorithm Visualizer** developed using **Swing** and **Graphics**.  
 It provides interactive visualizations for both **sorting** and **searching** algorithms, helping learners understand algorithmic steps through animations.  
 
-## Why Algorithm Visualization?
+## 💡 Why Algorithm Visualization?
 Algorithm visualization enhances the learning of computer science by making abstract concepts concrete:  
 
 🔹 **Algorithmic Importance**  
@@ -36,42 +36,58 @@ Algorithm visualization enhances the learning of computer science by making abst
 - Encourages experimentation with custom inputs  
 - Builds stronger intuition in algorithm design and problem solving  
 
-## Demonstration Video
+## 🎬 Demonstration Video
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://drive.google.com/file/d/1swls2OBBEtwGC9laN9r7LGBQG6mRkYwI/view?usp=drive_link)  
 
 Click the **Watch Demo** button above to see the Algorithm Visualizer in action, including sorting, searching, insertion, and deletion visualizations.
 
-## Key Features
-- **Sorting Algorithms**  
+## 🏷️ Key Features
+- **Sorting Algorithms** 🟢  
   - Bubble Sort  
   - Selection Sort  
   - Merge Sort  
 
-- **Searching Algorithms**  
+- **Searching Algorithms** 🔍  
   - Linear Search  
   - Binary Search  
 
-- **Additional Operations**  
+- **Additional Operations** ⚙️  
   - Insertion  
   - Deletion  
 
-- **Interactive Design**  
+- **Interactive Design** 🎨  
   - Step-by-step visualization of each algorithm  
   - User can input custom data for experiments  
 
-## Future Extensions
-- Add Quick Sort and Heap Sort  
-- Implement Graph Algorithms (Kruskal’s, Prim’s, A*)  
-- Tree Traversals (Inorder, Preorder, Postorder)  
-- Backtracking Problems (N-Queens, Maze Solver)  
-- Export features (Screenshots / Logs)  
+## 🚀 Future Extensions
+- **Sorting Algorithms** ➕  
+  - Quick Sort  
+  - Heap Sort  
 
-## Requirements
-- Java JDK 8 or later  
-- Visual Studio with Java Extension Pack  
-- Git (for cloning the repository)  
+- **Graph Algorithms** 🌐  
+  - Kruskal’s Algorithm  
+  - Prim’s Algorithm  
+  - A* Algorithm  
 
-## How to Run
-1. Clone the repository:  
+- **Tree Traversals** 🌳  
+  - Inorder  
+  - Preorder  
+  - Postorder  
+
+- **Backtracking Problems** 🧩  
+  - N-Queens  
+  - Maze Solver  
+
+- **Export Features** 💾  
+  - Screenshots  
+  - Logs  
+
+## ⚙️ Requirements
+- 💻 **Java JDK 8 or later**  
+- 🛠️ **Visual Studio** with Java Extension Pack  
+- 🔗 **Git** (for cloning the repository)  
+
+## ▶️ How to Run
+1. **Clone the repository:**  
    ```bash
    git clone https://github.com/ak1bhasan/Algorithm-Visualizer.git
