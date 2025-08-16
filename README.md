@@ -11,7 +11,8 @@
 - **Position:** Lecturer, Department of CSE  
 
 ## Project Team
-- [Md. Masudul Hasan Akib](https://github.com/ak1bhasan)  
+- [Md. Masudul Hasan Akib](https://github.com/ak1bhasan)
+- Jibran Masum Didar
 
 ## Project Overview
 This project is a **Java-based Algorithm Visualizer** developed using **Swing** and **Graphics**.  
