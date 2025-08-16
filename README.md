@@ -11,7 +11,7 @@
 - **Position:** Lecturer, Department of CSE  
 
 ## 👥 Project Team
-- [Md. Masudul Hasan Akib](https://www.linkedin.com/in/ak1bhasan/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Akib-blue?logo=linkedin) ![GitHub](https://img.shields.io/badge/GitHub-ak1bhasan-black?logo=github)
+- [Md. Masudul Hasan Akib](https://www.linkedin.com/in/ak1bhasan/)
 - Jibran Masum Didar
 
 ## 📝 Project Overview
