@@ -52,4 +52,4 @@ Algorithm visualization enhances the learning of computer science by making abst
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Algorithm-Visualizer.git
+   git clone https://github.com/ak1bhhasan/Algorithm-Visualizer.git
