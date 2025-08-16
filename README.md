@@ -76,7 +76,6 @@ Click the **Watch Demo** button above to see the Algorithm Visualizer in action,
 
 - **Export Features** 💾  
   - Screenshots  
-  - Logs  
 
 ## ⚙️ Requirements
 - 💻 **Java JDK 8 or later**  
