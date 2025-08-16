@@ -72,11 +72,8 @@ Click the **Watch Demo** button above to see the Algorithm Visualizer in action,
 - **Tree Traversals** 🌳  
   - Inorder  
   - Preorder  
-  - Postorder  
-
-- **Export Features** 💾  
-  - Screenshots  
-
+  - Postorder
+ 
 ## ⚙️ Requirements
 - 💻 **Java JDK 8 or later**  
 - 🛠️ **Visual Studio** with Java Extension Pack  
