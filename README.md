@@ -36,26 +36,18 @@ Algorithm visualization enhances the learning of computer science by making abst
   - Bubble Sort  
   - Selection Sort  
   - Merge Sort  
-  - Insertion Sort  
 
 - **Searching Algorithms**  
   - Linear Search  
   - Binary Search  
 
 - **Additional Operations**  
-  - Deletion Visualization  
+  - Insertion
+  - Deletion
 
 - **Interactive Design**  
   - Step-by-step visualization of each algorithm  
   - User can input custom data for experiments  
-
-## Future Extensions
-- Quick Sort and Heap Sort visualization  
-- Minimum Spanning Tree (Kruskal’s & Prim’s)  
-- Graph Search Algorithms (A*)  
-- Tree Traversals (Inorder, Preorder, Postorder)  
-- Backtracking Problems (N-Queens, Maze Solver)  
-- Export features (Screenshots / Logs)  
 
 ## How to Run
 1. Clone the repository:  
